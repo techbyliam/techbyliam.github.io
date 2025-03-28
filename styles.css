@@ -2,7 +2,20 @@ h2 {
   font-family: "Shrikhand", serif;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
       }
   body {
     background: palegoldenrod;
+  }
+  ul {
+    padding: 10px; 
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  header {
+    text-align: center;
+    background: 
+    padding: 20px 0px 0px 0px
   }
